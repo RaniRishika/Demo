@@ -1,0 +1,28 @@
+nav{
+    height:70px
+    
+}
+
+ ul li{
+margin-top:10px;
+margin-bottom:2px;
+margin-left:20px;
+}
+.high{
+    font-weight: bold;
+    font-size:30px;
+}
+a{
+    font-weight: bold;
+    font-size:20px;
+}
+
+    
+.bg-image{
+    background-image:url('/assets/Images/emart.jpg');
+    height: 730px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+}
